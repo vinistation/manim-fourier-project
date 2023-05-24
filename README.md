@@ -33,4 +33,4 @@ Two things to know:
 
 ## Screenshot
 
-[![Video screenshot](/Screenshot_2022-02-25.png)](https://www.youtube.com/watch?v=c-MMb71NMvw)
+[![Video screenshot](/Capture.png)](https://youtu.be/rHF-SdiaJks)
