@@ -1,4 +1,5 @@
 # manim-fourier-project
+Adapted to write UDELAS as cool text.
 
 Written in Python to draw cool things using the math of complex Fourier-series. This is an updated version of the code from youtuber Theorem of Beethoven, adapted from CairoManim to [ManimCE](https://www.manim.community/)
 
