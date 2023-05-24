@@ -33,4 +33,4 @@ Two things to know:
 
 ## Screenshot
 
-[![Video screenshot](/Capture.png)](https://youtu.be/rHF-SdiaJks)
+[![Video screenshot](/Capture.PNG)](https://youtu.be/rHF-SdiaJks)
